@@ -35,7 +35,7 @@ $(document).ready(function () {
   $(".Token_Address p").click(function (event) {
     event.preventDefault();
     CopyToClipboard(
-      "0xbb69003E0e34cd3b0FFcC8B4240fFBAa39090e51",
+      "0x1d632149D2Cca341d6C098C02c9032Bb4323832C",
       true,
       "✅Copied"
     );
